@@ -1,0 +1,23 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Bold Folded Mini Zine Booklet icon centered in the 66dp safe zone (21 to 87) -->
+    <!-- Left folded page sheet in high contrast deep charcoal -->
+    <path
+        android:fillColor="#1A1A2E"
+        android:pathData="M24,34 C24,30.7 26.7,28 30,28 L54,28 L54,80 L30,80 C26.7,80 24,77.3 24,74 Z" />
+    <!-- Right folded page sheet slightly staggered in accent pink to simulate layered folding -->
+    <path
+        android:fillColor="#F3B0C3"
+        android:pathData="M54,28 L78,28 C81.3,28 84,30.7 84,34 L84,74 C84,77.3 81.3,80 78,80 L54,80 Z" />
+    <!-- Heavy central spine boundary binding line -->
+    <path
+        android:fillColor="#1A1A2E"
+        android:pathData="M51,28 h6 v52 h-6 Z" />
+    <!-- Center star cut-out representing curation excellence in warm cream -->
+    <path
+        android:fillColor="#FFF9E5"
+        android:pathData="M54,42 L56.5,47 L62,47.5 L58,51 L59,56.5 L54,53.5 L49,56.5 L50,51 L46,47.5 L51.5,47 Z" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "Ziinly",
+  "description": "The Anti-Photo Dump: select your Elite 8 moments, arrange them on a folding paper blueprint, and fold them into a 3D folded flipbook interactive zine preserved on your virtual bookshelf.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
